@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2D839759-8B27-4D95-AF9A-F9077E37A566</string>
+	<key>IDESourceControlProjectName</key>
+	<string>J-PopNavi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>056b6a6f-17a9-af9a-a0ad-e7d210ef7d53++505</key>
+		<string>https://j-k-pop-navi.googlecode.com/svn/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>J-PopNavi.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>056b6a6f-17a9-af9a-a0ad-e7d210ef7d53++505</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>056b6a6f-17a9-af9a-a0ad-e7d210ef7d53++505</key>
+		<string>https://j-k-pop-navi.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://j-k-pop-navi.googlecode.com/svn/trunk/J-PopNavi.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>056b6a6f-17a9-af9a-a0ad-e7d210ef7d53++505</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>056b6a6f-17a9-af9a-a0ad-e7d210ef7d53++505</string>
+			<key>IDESourceControlWCCName</key>
+			<string>trunk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
